@@ -13,3 +13,5 @@ The following categories of are included in the repository:
   <li>Case studies</li>
   <li>Bibliography</li>
 </ul>
+
+The code examples in this repository are written in Python and use popular libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn. The case study includes a detailed explanation of the code, along with visualizations and performance metrics.
