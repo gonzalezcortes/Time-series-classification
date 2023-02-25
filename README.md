@@ -24,4 +24,4 @@ The following categories of are included in the repository:
 This project's code will be written in Python and will be stored in separate files depending on the technique or algorithm employed. The files will be arranged in a directory structure that follows a categorization of the employed tasks. The code will be modular and reusable so that it can be simply integrated into other projects. To exhibit the outcomes, a Jupyter notebook containing the outputs and evaluation metrics will be developed. This will facilitate the visualization and interpretation of the results, as well as the reproduction and expansion of the work by others.
 
 ## References
-Dataset [@Malekzadeh:2019:MSD:3302505.3310068][@Malekzadeh:2019:MSD:3302505.3310068](CITATION.bib)
+Dataset MotionSense Dataset : Smartphone Sensor Data - HAR [1](CITATION.bib)
