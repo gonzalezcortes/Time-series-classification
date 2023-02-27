@@ -1,5 +1,7 @@
 # Time-series-classification
 
+<img src="images/arima_time_series.jpg">
+
 This repository introduces the categorization of time series and includes code examples and ideas for best practices. Time series classification is an important task in many fields, such as finance, healthcare, transportation, and different industries, where it is necessary to classify time series. The classification of time series can be helpful in various applications, including forecasting stock prices, detecting market trends, and detecting sensor data anomalies.
 
 The objective of time series classification is to determine the class or category of a time series by looking at its historical data and making a prediction about what that class or category will be.The categorization of time series presents several challenging issues. Sometimes time series data are chaotic and have high dimensions, making it more difficult to isolate important features. Another challenge is that time series data is frequently subject to temporal dependencies, which means that the present value of a time series may depend on its previous values. To address these challenges, some techniques have been developed for time series classifications. Including preprocessing techniques such as normalization, feature extraction and path signature, among others.
