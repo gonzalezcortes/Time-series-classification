@@ -1,6 +1,6 @@
 # Time-series-classification
 <div style="text-align: center;">
-<img src="images/arima_time_series_wide.jpg" width="50%" height="50%">
+<img src="images/arima_time_series_wide.jpg" width="80%" height="80%">
 </div>
 This repository introduces the categorization of time series and includes code examples and ideas for best practices. Time series classification is an important task in many fields, such as finance, healthcare, transportation, and different industries, where it is necessary to classify time series. The classification of time series can be helpful in various applications, including forecasting stock prices, detecting market trends, and detecting sensor data anomalies.
 
